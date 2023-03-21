@@ -1,0 +1,1 @@
+"openocd-0.10.0/bin/openocd.exe" -f openocd-0.10.0/scripts/interface/stlink-v2.cfg -f openocd-0.10.0/scripts/board/stm32f4discovery.cfg

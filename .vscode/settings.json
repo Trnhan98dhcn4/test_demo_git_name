@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "rcc_lib.h": "c",
+        "vttb_lib.h": "c",
+        "systick_lib.h": "c"
+    }
+}
